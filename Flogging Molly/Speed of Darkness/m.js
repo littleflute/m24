@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Speed of Darkness.mp3";		
+f[2]	= "02 Revolution.mp3";		
+f[3]	= "03 The Heart of the Sea.mp3";		
+f[4]	= "04 Don't Shut 'Em Down.mp3";		
+f[5]	= "05 The Power's Out.mp3";		
+f[6]	= "06 So Sail On.mp3";		
+f[7]	= "07 Saints & Sinners.mp3";		
+f[8]	= "08 This Present State of Grace.mp3";		
+f[9]	= "09 The Cradle of Humankind.mp3";		
+f[10]	= "10 Oliver Boy (All of Our Boys).mp3";		
+f[11]	= "11 A Prayer for Me in Silence.mp3";		
+f[12]	= "12 Rise Up.mp3";		
