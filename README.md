@@ -1,4 +1,4 @@
-[v0.0.7](https://github.com/littleflute/m24/edit/master/README.md)
+[v0.0.8](https://github.com/littleflute/m24/edit/master/README.md)
 
 [A Tribute to Ronnie James Dio- This Is Your Life](A Tribute to Ronnie James Dio- This Is Your Life)
 
@@ -10,3 +10,4 @@
 
 [Flogging Molly/Float](Flogging Molly/Float)
 
+[Flogging Molly/Speed of Darkness](Flogging Molly/Speed of Darkness)
