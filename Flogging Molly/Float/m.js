@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Requiem for a Dying Song.mp3";		
+f[2]	= "02 (No More) Paddy's Lament.mp3";		
+f[3]	= "04 You Won't Make a Fool out of Me.mp3";		
+f[4]	= "05 The Lightning Storm.mp3";		
+f[5]	= "06 Punch Drunk Grinning Soul.mp3";		
+f[6]	= "07 Us of Lesser Gods.mp3";		
+f[7]	= "08 Between a Man and a Woman.mp3";		
+f[8]	= "09 From the Back of a Broken Dream.mp3";		
+f[9]	= "10 Man with No Country.mp3";		
+f[10]	= "11 The Story So Far.mp3";		
+f[11]	= "Float.mp3";		
