@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "02 Breakin' It Down.mp3";		
+f[2]	= "03 Europa (Earth's Cry Heaven¡¯s Smile).mp3";		
+f[3]	= "04 West Coast Jam.mp3";		
+f[4]	= "05 Harry the Hipster.mp3";		
+f[5]	= "07 Back to You.mp3";		
+f[6]	= "08 Ludicrous Speed.mp3";		
+f[7]	= "09 Summer Madness.mp3";		
+f[8]	= "10 Mr. Nate's Wild Ride.mp3";		
+f[9]	= "Cachaca.mp3";		
+f[10]	= "Slam-O-Rama.mp3";		
