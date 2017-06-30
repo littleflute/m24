@@ -1,0 +1,15 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Rize of the Fenix.mp3";		
+f[2]	= "02 Low Hangin' Fruit.mp3";		
+f[3]	= "03 Classical Teacher.mp3";		
+f[4]	= "05 Deth Starr.mp3";		
+f[5]	= "07 Flutes & Trombones.mp3";		
+f[6]	= "08 The Ballad of Hollywood Jack and the Rage Kage.mp3";		
+f[7]	= "09 Throw Down.mp3";		
+f[8]	= "10 Rock is Dead.mp3";		
+f[9]	= "11 They Fucked Our Asses.mp3";		
+f[10]	= "12 To Be the Best.mp3";		
+f[11]	= "39.mp3";		
+f[12]	= "Roadie.mp3";		
+f[13]	= "Se orita.mp3";		
